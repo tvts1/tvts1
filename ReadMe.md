@@ -1,7 +1,3 @@
-# 💫 About Me:
--👋 Olá, eu sou Tássio Tristão e sou estudante no Instituto Federal de Pernambuco, Brasil. <br>-👀 Tenho interesse em desenvolvimento back-end em geral. <br>-🌱 Atualmente, estou aprendendo Python e C. <br>-📫 Como me contatar: tassio.tristao9@gmail.com 
-
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
