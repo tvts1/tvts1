@@ -1,3 +1,7 @@
+<h2>Sobre mim</h2> 
+Estudante de Análise e Desenvolvimento de Sistemas e apaixonado pro tecnologia, focando principalmente no back-end.
+<h2>Redes Sociais</h2>
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
