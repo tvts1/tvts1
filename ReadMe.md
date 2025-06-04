@@ -1,6 +1,6 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Docker]([https://img.shields.io/docker/stars/:user/:repo](https://img.shields.io/docker/image-size/:user/:repo/:tag)
+![Docker](https://img.shields.io/docker/image-size/:user/:repo/:tag)
           
           
 # 📊 GitHub Stats:
